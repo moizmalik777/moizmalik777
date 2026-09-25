@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/EMAIL-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/MUXAB18">
+<a href="https://github.com/moizmalik777">
 <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
@@ -222,7 +222,7 @@ It's about creating interfaces that are:
 
 <br/><br/>
 
-<a href="https://github.com/MUXAB18">
+<a href="https://github.com/moizmalik777">
 <img src="https://img.shields.io/badge/GitHub-MUXAB18-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -236,11 +236,7 @@ It's about creating interfaces that are:
 
 **Frontend Engineer • Web Developer • Builder**
 
-<br/>
 
-<img src="https://komarev.com/ghpvc/?username=MUXAB18&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS"/>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:2563EB&height=120&section=footer" width="100%"/>
 
